@@ -4,17 +4,15 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
+{% include image.html url="images/coffee.jpg" caption="" max_width="300px" align="right" %}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
+My name is Kris Tran. I am a coffeeholic. I am a first year student at Lakehead University, studying M.A in Economics. This is my personal website where I share my experience and learning path about Mathematics, Economics and Programming. You can find some information about my current research and projects as well. 
 ## Contact
 
-Rebel base <br />
-[Yavin] <br />
-Galaxy far far away<br />
-Email: [chewy@rebel.com]
+Kris Tran <br />
+[Github] <br />
+Email: [kristran668@gmail.com]
 
 
-[Yavin]: https://en.wikipedia.org/wiki/Yavin
-[chewy@rebel.com]: mailto:chewy@rebel.com
+[Github]: https://github.com/KrisTran90
+[kristran668@gmail.com]: mailto:kristran668@gmail.com
