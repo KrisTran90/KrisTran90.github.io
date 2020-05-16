@@ -1,26 +1,17 @@
-This is my personal blog plan
+# Much-Worse jekyll theme
 
-### Motivation:
-I want to create a personal blog to write about my learning path and share my experience.
+This theme is avaiable under [MIT License](https://opensource.org/licenses/MIT).
 
-### Goals:
-1. **[Immediate]** Create a blog on Github Pages by using Jekyll
-2. **[Shorter-term]** Share my learning path about Math, Economics and Programming 
-3. **[Medium-term]** Upload my research and projects. Use them to get a data science job
-4. **[Longer-term]** Share my idea and thoughts about anything around me
+This is a modified version of [Steve Miller's NGVM theme](http://jekyllthemes.org/themes/svm-ngvb/). Since this work is a derivative of Prof. Miller's, therefore it is only fair that I honour his self-deprecating spirit and name this **much-worse**. I prefer large seriff fonts and minimal coloring and styling. Apart form the typography, color scheme and layout,
+this theme has two useful changes:
 
-### Resources:
-* [Blog about Jekyll](https://blog.webjeda.com/)- This website has many things about web, web development and design.
-* [Making a website by using Jekyll - Vietnamese](https://blog.vietanhdev.com/posts/xay-dung-website-voi-jekyll/)
-* [Sharing experience about using Jekyll](https://daynhauhoc.com/t/lam-blog-bang-jekyll-su-dung-host-cua-github-level-sieu-co-ban/7030/30)
-* [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
-* [How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole)
-* [How to Setup GitHub Pages (2020)](https://www.youtube.com/watch?v=qWrcgHwSG8M) - Youtube
+- It allows you to maintain your website as a subdirectory on your university of company domain (e.g. http://university.edu/department/people/your-website). Most Jekyll blogs are
+designed to be hosted at custom domain names.
 
-### Youtube:
-* [How to Build a Compelling Data Science Portfolio & Resume](https://www.youtube.com/watch?v=xrhPjE7wHas)
-* []()
-### Template:
-* [Website has many Theme](http://jekyllthemes.org/)
-* [List template](http://hugosereno.eu/)
-* [Caymen-Blog](https://github.com/lorepirri/cayman-blog)
+- Most jekyll themes are blog-centric, or single page websites. This theme lets you create multi-page website with a blog if you want.
+
+Both the above are not seminal achievements in science, but they are useful. This theme also supports site analytics including [Statcounter](http://statcounter.com) and major comment providers for blogs.
+
+See it in action [here](http://people.csail.mit.edu/gchauras).
+
+Feel free to send me pull requests with better responsive performance or cleaner HTML/CSS.
