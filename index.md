@@ -5,7 +5,7 @@ title: About
 
 {% include image.html url="images/coffee.jpg" caption="" max_width="150px" align="right" %}
 
-My name is Kris Tran. I am a coffeeholic. I am a first year student at Lakehead University, studying M.A in Economics. This is my personal website where I share my experience and learning path about Mathematics, Economics and Programming. You can find some information about my current research and projects as well. 
+My name is Kris Tran and I am a coffeeholic. I am a first year student at Lakehead University, studying M.A in Economics. This is my personal website where I share my experience and learning path about Mathematics, Economics and Programming. You can find some information about my current research and projects as well. 
 ## Contact
 
 Kris Tran <br />
