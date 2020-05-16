@@ -1,6 +1,6 @@
-title: Geeky corner
-description: Much-Worse Jekyll theme for academic page and blog
-sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
+title: Kris Tran
+description: "This is a personal blog about Mathematics, Programming & Economics"
+sourcecode: "https://github.com/KrisTran90/KrisTran90.github.io"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
@@ -8,8 +8,8 @@ exclude: ["Makefile", "README.md"]
 url: "http://gchauras.github.io"     # the base hostname & protocol for your site
 baseurl: "/much-worse-jekyll-theme"                   # the subpath of your site, e.g. /blog
 
-author:
-    name:
+author: 
+    name: Kris Tran
     facebook:
     scholar:
 
