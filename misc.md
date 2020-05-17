@@ -1,19 +1,35 @@
 ---
 layout: page
-title: Interests
-permalink: /misc/
+title: Resources
+permalink: /resources/
 ---
 
-## Cool hobby to prove you are athletic
+### Statistics:
+* [Causal Inference](https://www.mattblackwell.org/teaching/gov2002/) (Blackwell, Harvard)
 
-Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
 
-## Cooler but boring hobby to prove you are smart
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+## Econometrics
+* [Applied Econometrics: Mostly Harmless Big Data](https://ocw.mit.edu/courses/economics/14-387-applied-econometrics-mostly-harmless-big-data-fall-2014/index.htm) (Angrist & Chernozhukov, MIT)
 
-## Cooler hobby 2
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
 
-## Ancient hobby which is not cool anymore
 
-Consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+## Machine Learning
+* [Machine Learning](http://cs229.stanford.edu/index.html) (Stanford CS229)
+* [Principles and Techniques of Data Science](http://www.ds100.org/) (Berkeley DS100)
+* [UCI Machine learning repository](https://archive.ics.uci.edu/ml/index.php)
+* [Kaggle](https://www.kaggle.com/)
+
+## Computing
+
+#### Python
+* [Conway’s Game of Life](http://stanford.edu/~cpiech/cs221/handouts/pythonTutorial.html) (Stanford CS221)
+* [NumPy Tutorial](https://cs231n.github.io/python-numpy-tutorial/) (Stanford CS231n)
+* [Quantitative Economics with Python](https://python.quantecon.org/) (Quantecon.org)
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) (VanderPlas, J.)
+
+#### R/R Markdown
+* [Data Science for Economists](https://github.com/uo-ec607/lectures) McDermott, G
+* 
+
+
+#### MySQL
