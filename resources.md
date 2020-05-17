@@ -8,18 +8,18 @@ permalink: /resources/
 * [Causal Inference](https://www.mattblackwell.org/teaching/gov2002/) (Blackwell, Harvard)
 
 
-## Econometrics
+### Econometrics
 * [Applied Econometrics: Mostly Harmless Big Data](https://ocw.mit.edu/courses/economics/14-387-applied-econometrics-mostly-harmless-big-data-fall-2014/index.htm) (Angrist & Chernozhukov, MIT)
 
 
 
-## Machine Learning
+### Machine Learning
 * [Machine Learning](http://cs229.stanford.edu/index.html) (Stanford CS229)
 * [Principles and Techniques of Data Science](http://www.ds100.org/) (Berkeley DS100)
 * [UCI Machine learning repository](https://archive.ics.uci.edu/ml/index.php)
 * [Kaggle](https://www.kaggle.com/)
 
-## Computing
+### Computing
 
 #### Python
 * [Conway’s Game of Life](http://stanford.edu/~cpiech/cs221/handouts/pythonTutorial.html) (Stanford CS221)
